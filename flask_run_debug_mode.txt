@@ -1,0 +1,6 @@
+Run flask server in debug mode linux or gitbash
+
+export FLASK_APP=myapp
+export FLASK_ENV=development
+flask run
+
